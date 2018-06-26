@@ -1,2 +1,6 @@
 def f1():
 	return HttpResponse('f1/...')
+def f2():
+	return HttpResponse('f2/...')
+def f3():
+	return HttpResponse('f3/....')
